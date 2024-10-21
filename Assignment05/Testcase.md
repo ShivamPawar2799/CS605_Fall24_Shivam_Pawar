@@ -15,5 +15,4 @@ This document describes the test cases for the binary search tree (BST) implemen
 | **6** | Deleting a Node with Two Children | 1. Insert the node ("Raghav", "567-890-1234") as the left child of "Yash".<br>2. Delete the node with the name "Yash". | The node "Yash" should be removed, and the in-order successor should take its place. | Node "Yash" was removed, and the in-order successor took its place. |
 
 ## Conclusion
-This document outlines the test cases for the binary search tree implementation. Each test case includes the steps to perform, the expected outcome, and space for actual observations. 
-
+This document outlines the test cases for the binary search tree implementation. Each test case includes the steps to perform, the expected outcome.
